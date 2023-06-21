@@ -21,6 +21,7 @@ assignees:
   - zuedev
 
 status-website:
+  name: status.unnamed.group
   baseUrl: /upptime
   logoUrl: https://avatars.githubusercontent.com/u/106413411
   favicon: https://avatars.githubusercontent.com/u/106413411
