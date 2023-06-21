@@ -1,25 +1,37 @@
-# Change these first
-owner: unnamed-dot-group # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# https://upptime.js.org/docs/configuration
+
+owner: unnamed-dot-group
+repo: upptime
 
 sites:
-  - name: Mastodon
+  - name: unnamed.group
+    url: https://unnamed.group
+  - name: mastodon.unnamed.group
     url: https://mastodon.unnamed.group
+  - name: uagpmc.com
+    url: https://uagpmc.com
+  - name: monsoonesports.org
+    url: https://monsoonesports.org
+  - name: monsoon.team
+    url: https://monsoon.team
+  - name: monsoon.academy
+    url: https://monsoon.academy
+
+assignees:
+  - zuedev
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#   cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-#   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-#   navbar:
-#     - title: Status
-#       href: /
-#     - title: GitHub
-#       href: https://github.com/$OWNER/$REPO
+  logoUrl: https://avatars.githubusercontent.com/u/106413411
+  favicon: https://avatars.githubusercontent.com/u/106413411
+  theme: night
+  css: "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap'); body { font-family: 'Inter' }"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
