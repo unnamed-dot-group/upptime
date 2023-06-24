@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.unnamed.group.ico",
     "slug": "mastodon-unnamed-group",
     "status": "down",
-    "uptime": "81.68%",
-    "uptimeDay": "45.73%",
-    "uptimeWeek": "81.68%",
-    "uptimeMonth": "81.68%",
-    "uptimeYear": "81.68%",
+    "uptime": "79.92%",
+    "uptimeDay": "39.21%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "79.92%",
     "time": 676,
     "timeDay": 508,
     "timeWeek": 676,
     "timeMonth": 676,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-06-24": 781
+      "2023-06-24": 875
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://uagpmc.com",
     "icon": "https://icons.duckduckgo.com/ip3/uagpmc.com.ico",
     "slug": "uagpmc-com",
-    "status": "up",
-    "uptime": "81.68%",
-    "uptimeDay": "45.73%",
-    "uptimeWeek": "81.68%",
-    "uptimeMonth": "81.68%",
-    "uptimeYear": "81.68%",
+    "status": "down",
+    "uptime": "79.92%",
+    "uptimeDay": "39.21%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "79.92%",
     "time": 520,
     "timeDay": 404,
     "timeWeek": 520,
     "timeMonth": 520,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2023-06-24": 781
+      "2023-06-24": 875
     }
   },
   {
