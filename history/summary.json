@@ -22,9 +22,9 @@
     "url": "https://mastodon.unnamed.group",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.unnamed.group.ico",
     "slug": "mastodon-unnamed-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +33,16 @@
     "timeWeek": 676,
     "timeMonth": 676,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-24": 0
+    }
   },
   {
     "name": "uagpmc.com",
     "url": "https://uagpmc.com",
     "icon": "https://icons.duckduckgo.com/ip3/uagpmc.com.ico",
     "slug": "uagpmc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-24": 0
+    }
   },
   {
     "name": "monsoonesports.org",
