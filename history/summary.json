@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.unnamed.group.ico",
     "slug": "mastodon-unnamed-group",
     "status": "down",
-    "uptime": "74.68%",
-    "uptimeDay": "17.96%",
-    "uptimeWeek": "74.68%",
-    "uptimeMonth": "74.68%",
-    "uptimeYear": "74.68%",
+    "uptime": "72.73%",
+    "uptimeDay": "9.28%",
+    "uptimeWeek": "72.73%",
+    "uptimeMonth": "72.73%",
+    "uptimeYear": "72.73%",
     "time": 676,
     "timeDay": 0,
     "timeWeek": 676,
     "timeMonth": 676,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-06-24": 1181
+      "2023-06-25": 85,
+      "2023-06-24": 1221
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uagpmc.com.ico",
     "slug": "uagpmc-com",
     "status": "up",
-    "uptime": "74.68%",
-    "uptimeDay": "17.96%",
-    "uptimeWeek": "74.68%",
-    "uptimeMonth": "74.68%",
-    "uptimeYear": "74.68%",
+    "uptime": "72.73%",
+    "uptimeDay": "9.28%",
+    "uptimeWeek": "72.73%",
+    "uptimeMonth": "72.73%",
+    "uptimeYear": "72.73%",
     "time": 561,
     "timeDay": 581,
     "timeWeek": 561,
     "timeMonth": 561,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2023-06-24": 1181
+      "2023-06-25": 85,
+      "2023-06-24": 1221
     }
   },
   {
